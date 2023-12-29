@@ -3,6 +3,8 @@
 
 Final report linked [here](10617_final_report.pdf). 
 
+Our model weights can be found in their respective Jupyter Notebooks. 
+
 ## File Structure 
 ### [transformer](transformer)
 Folder containing Jupyter Notebook for our modified Multilogue-Net and transformer architecture; Jupyter Notebook contains instructions on how to run our model. Uses code from [Multilogue-Net](https://github.com/amanshenoy/multilogue-net). We modified the model file, training script and requirements file. Our [report](10617_final_report.pdf) explains in detail the theory behind our model. 
